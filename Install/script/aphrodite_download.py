@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Jaya
-#
-# Created:     19/06/2016
-# Copyright:   (c) Jaya 2016
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 
 import netCDF4 as netcdf
 import numpy as np
